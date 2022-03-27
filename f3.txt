@@ -1,0 +1,6 @@
+#! /bin/bash
+echo "please enter value"
+read a
+echo "please enter value"
+read b
+
