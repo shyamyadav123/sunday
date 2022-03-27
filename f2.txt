@@ -1,0 +1,8 @@
+echo "enter you number"
+read a
+while [ $a -eq 20 ]
+do
+echo $a
+ a=`expr $a+5`
+done
+
