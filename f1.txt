@@ -1,0 +1,8 @@
+echo "please enter your pin:"
+read pin
+if ["$pin -eq 123"]
+then 
+  echo "correct statement"
+else
+ echo "please enter correct pin"
+fi
